@@ -8,7 +8,7 @@
 ## Installation
 
 ```bash
-bash <(wget --no-check-certificate -O - '[https://raw.githubusercontent.com/dizzzxD/SinusBot-Installer-Linux-Fixed/refs/heads/main/sinusbot_installer.sh]')
+bash <(wget --no-check-certificate -O - 'https://raw.githubusercontent.com/dizzzxD/SinusBot-Installer-Linux-Fixed/refs/heads/main/sinusbot_installer.sh')
 ```
 
 This command basically downloads the latest version of the installer-script and executes it via the bash.
